@@ -1,0 +1,13 @@
+@charset "utf-8";
+h1 {
+	color: #BE43C5;
+	text-align: center;
+	text-decoration: underline;
+}
+h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+body header p {
+	text-align: center;
+}
